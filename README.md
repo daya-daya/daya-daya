@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dayana
-- 👀 I’m interested in Web Developing and Graphic Design
+- 👀 I’m interested in Web Developing and Web Design
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me: e-mail: oneplus303@protonmail.ch

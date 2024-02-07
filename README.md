@@ -1,4 +1,4 @@
-- 👀 I’m interested in Web Developing and Web Design
+- 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me: oneplus303@protonmail.ch
